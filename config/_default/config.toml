@@ -1,4 +1,4 @@
-baseURL = "team-cruru.github.io"
+baseURL = "https://blog.cruru.kr/"
 languageCode = "en-us"
-title = "Cruru-Dev-Blog"
+title = "Team Cruru. Dev Blog"
 theme = "DoIt"
