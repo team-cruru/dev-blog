@@ -7,3 +7,6 @@
 [submodule "themes/lotusdocs"]
 	path = themes/lotusdocs
 	url = https://github.com/colinwilson/lotusdocs
+[submodule "themes/hugo-mod-bootstrap-scss"]
+	path = themes/hugo-mod-bootstrap-scss
+	url = https://github.com/gohugoio/hugo-mod-bootstrap-scss
